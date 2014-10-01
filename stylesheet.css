@@ -1,0 +1,75 @@
+*{
+	font-family: "Trebuchet MS";
+	background-color: grey;
+
+}
+
+#career{
+	width: 500px;
+	margin-top: -240px;
+	border: 2px solid white;
+	float: left;
+	font-style: italic;
+
+
+}
+#header
+{
+	z-index: 1;
+	font-family: "Trebuchet MS";
+	font-size: 30px;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+#email{display: inline-block;
+	   margin-top: -290px
+		}
+
+#contact
+{
+	float: left;
+	margin-top: -295px;
+	width: 300px;
+	line-height: 12px;
+	}
+#wrap { 
+	width: 900px; 
+	margin: 0 auto; 
+}
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.verticalLine {
+    border-left: thick solid #ff0000;}
+
+#left {
+		margin-left: 200px;
+		margin-right: 50px
+}
+
+#right{
+		margin-right: 50px;
+		margin-left: 350px;
+}
+
+
+img{
+	position: relative;
+	margin-left: 600px;
+	margin-top: -100px;
+	width: 250px; 
+	height: 350px;
+	border:5px solid black;
+	border-width: 5px;
+
+
+}
